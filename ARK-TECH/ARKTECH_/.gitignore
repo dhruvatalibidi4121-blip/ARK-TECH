@@ -1,0 +1,8 @@
+.env
+venv/
+node_modules/
+__pycache__/
+dist/
+*.pyc
+backend/data/*.json
+frontend/.npm-cache/
